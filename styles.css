@@ -82,8 +82,8 @@ hr {
 
 
 /* Ids */
-#page-title {
-    color: gainsboro;
+#mainHeading {
+    color: red;
     text-align: center;
 }
 
