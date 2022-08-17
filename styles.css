@@ -6,11 +6,11 @@ body{
     background-color: tan;
     font-size: 11pt;
     font-weight: 400;
-    
+    display: block;
     /*add font and text color*/
     width: 100vw;
     height: 100vh;
-    margin: 0px;
+    margin: 8px;
     padding: 0px;
     overflow-x: hidden;
 }
@@ -100,4 +100,9 @@ hr {
     color: green
 }
 
+
 /* Classes */
+
+.funParagraph {
+    color: green
+}
