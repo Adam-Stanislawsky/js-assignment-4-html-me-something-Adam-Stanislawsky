@@ -96,4 +96,8 @@ hr {
     text-align: center;
 }
 
+#testP.funParagraph {
+    color: green
+}
+
 /* Classes */
